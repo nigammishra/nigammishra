@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, Developers! I'm Nigam</h1>
+<h3 align="center">A passionate frontend developer from Odisha</h3>
 
 ###
+
 <div align="center">
 <img src="video-portfolio.gif"  width="600px" height="250px" alt="streak graph"  />
 </div>
-<h1 align="center">Hi 👋, I'm Nigam Mishra</h1>
-<h3 align="center">A passionate frontend developer from Odisha</h3>
 
 - 🔭 I’m currently working on [tourism-management-system](https://nigammishra.github.io/tourism-management-system/)
 
@@ -52,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50"/> </a>
 </div>
 
 ###
