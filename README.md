@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hello, Developers! I'm Nigam</h1>
 
 ###
-<div align="center">
-<img src="video-portfolio.gif"  width="700px" height="300px" alt="streak graph"  />
+<div align="center" style="border: 1px solid black; padding: 15px;">
+  <img src="video-portfolio.gif" width="700px" height="300px" alt="streak graph" />
 </div>
+
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=Bombat18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
