@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, Developers! I'm Nigam</h1>
 
 ###
-<img src="video-portfolio.gif" height="150" alt="streak graph"  />
+<img src="video-portfolio.gif"  alt="streak graph"  />
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=Bombat18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
