@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, Developers! I'm Nigam</h1>
 
 ###
-<div align="center" style="border: 1px solid black; padding: 15px;">
+<div align="center border= "1px solid black" padding= "15px" " style="border: 1px solid black; padding: 15px;">
   <img src="video-portfolio.gif" width="700px" height="300px" alt="streak graph" />
 </div>
 
