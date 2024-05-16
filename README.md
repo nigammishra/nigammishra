@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-<img src="video-portfolio.gif"  width="700px" height="200px" alt="streak graph"  />
+<img src="video-portfolio.gif"  width="700px" height="300px" alt="streak graph"  />
 </div>
 <div align="center">
   
