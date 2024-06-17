@@ -7,7 +7,7 @@
 <img src="video-portfolio.gif"  alt="streak graph"  />
 </div>
 
-- 🔭 I’m currently working on [tourism-management-system](https://nigammishra.github.io/tourism-management-system/)
+- 🔭 I’m currently working on [grocery-shop](https://nigammishra.github.io/Grocery-react/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS , MongoDB (MERN Stack)**
 
