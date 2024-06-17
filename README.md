@@ -77,9 +77,9 @@
 </div>
 
 ###
-
+<div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nigammishra/nigammishra/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
