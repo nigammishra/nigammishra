@@ -7,7 +7,7 @@
 <img src="video-portfolio.gif"  alt="streak graph"  />
 </div>
 
-- 🔭 I’m currently working on [grocery-shop](https://nigammishra.github.io/Grocery-react/)
+- 🔭 I’m currently working on [Hotel-project-react](https://nigammishra.github.io/hotel-project-react/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS , MongoDB (MERN Stack)**
 
@@ -52,17 +52,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
 </div> -->
 
-
 <div align="center">
 <img align="" height="150" src="https://media.giphy.com/media/Xg6A6VcUA0Nnt3Alks/giphy.gif?cid=790b7611x6dmobbs5brkgu7c4d1bwiogsu93tu5qahdvy9o1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-
 
 <div align="center">
  <a href="mailto:nigammishra826@gmail.com" target="_blank">
@@ -77,9 +75,9 @@
 </div>
 
 ###
+
 <div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nigammishra/nigammishra/output/snake.svg" alt="Snake animation" />
 </div>
-
