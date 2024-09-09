@@ -3,10 +3,13 @@
 
 ###
 
-<div align="center">
+<div class="row">
+  <div class="col-md-6">
+  <div align="center">
 <img src="video-portfolio.gif"  alt="streak graph"  />
 </div>
-
+</div>
+  <div class="col-md-6">
 - 🔭 I’m currently working on [Hotel-project-react](https://nigammishra.github.io/hotel-project-react/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS , MongoDB (MERN Stack)**
@@ -16,6 +19,8 @@
 - 👨‍💻 All of my projects are available at [https://nigammishra.github.io/nigam-portfolio/](https://nigammishra.github.io/nigam-portfolio/)
 
 - 📫 How to reach me **nigammishra826@gmail.com**
+  </div>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
