@@ -7,7 +7,7 @@
 <img src="video-portfolio.gif"  alt="streak graph"  />
 </div>
 
-- 🔭 I’m currently working on [Hotel-project-react](https://nigammishra.github.io/hotel-project-react/)
+- 🔭 I’m currently working on [SpectroQ Diagonastic](https://nigammishra.github.io/SpectroQ_Dignostics/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS , MongoDB (MERN Stack)**
 
