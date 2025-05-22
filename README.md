@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [contact-book-react,library-mgmt-react](https://frex-arup.github.io/library-mgmt-react/)
 
-- 👨‍💻 All of my projects are available at [https://nigammishra.github.io/nigam-portfolio/](https://nigammishra.github.io/nigam-portfolio/)
+- 👨‍💻 All of my projects are available at [https://nigammishra.github.io/Nigam_mishra/](https://nigammishra.github.io/Nigam_mishra/)]
 
 - 📫 How to reach me **nigammishra826@gmail.com**
 
