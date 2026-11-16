@@ -7,7 +7,7 @@
 <img src="video-portfolio.gif"  alt="streak graph"  />
 </div>
 
-- 🔭 I’m currently working on [SpectroQ Diagonastic](https://nigammishra.github.io/SpectroQ_Dignostics/)
+- 🔭 I’m currently working on [Grocery shop](https://nigammishra.github.io/Grocery-react/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS , MongoDB (MERN Stack)**
 
